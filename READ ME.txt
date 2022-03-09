@@ -1,0 +1,19 @@
+	Consider ca aceasta tema a fost foarte importanta, intrucat m-a ajutat sa ma familiarizez cu
+conceptul de "proiect" pe care il voi intalni foarte des in viitoarele job-uri de programare. Implementarea 
+realizata consider ca este extrem de eficienta, deoarece simuleaza foarte bine caracteristicile unui 
+magazin online, incepand cu strcuturarea acestuia de la cel mai mic nivel: Produse, Useri, Cos de cumparaturi, 
+server, cache.
+	Implementarea temei este realizata complet. Abordarea acesteia mi s-a parut foarte interesanta, prin 
+faptul ca am inceput crearea magazinului de la "cel mai jos nivel", adica "Product.hpp". Apoi am inceput sa 
+avansez completarea temei si am descoperit cu lucrurile incep usor, usor sa se lege. Am folosit tehnica derivarii 
+pentru crearea mai multor tipuri de produse, apoi am realizat, de asemenea, o clasificare foarte bine conceputa 
+a Userilor, folosind atribute si metode foarte bine gandite de la bun inceput. Lucrurile au inceput sa se lege si 
+mai bine si sa devina si mai interesante odata cu crearea clasei ShoppingCart si Server, aceasta din urma avand rolul
+de a pune cap la cap toate lucrurile de pana acum si sa le organizeze in cel mai bun mod posibil. De asemnea, dintre
+dificultatile intampinate pe parcursul abordarii temei pot mentiona folosirea tehnicii "dynamic cast" care a fost noua
+pentru mine, dar am reusit sa inteleg cum se poate folosi si ce aplicabilitate extrem de importanta are.
+	In conculzie, pot spune ca aceasta tema a fost extrem de interesanta intrucat m-a facut sa inteleg mult mai 
+bine conceptul de "proiect" si m-a facut sa parcurg absolut toate conceptele deprinse pana acum la materia 
+"Peogramare Orientata pe Obiecte". In plus, abordarea acesteia mi-a facut placere, pentru ca m-a provocat sa gandesc 
+eficient si sa realizez conexiuni intre lucruri si concepte, invatand, de asemenea, si unele noi.
+	
